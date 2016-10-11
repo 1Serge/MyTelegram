@@ -1,6 +1,4 @@
-/**
- * Created by Serg on 22.09.2016.
- */
+// test
 public class MyProfile
 {
     public static String myNumber;
