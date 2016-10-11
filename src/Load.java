@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-/** git2
+/** git33333333333
  - Перечислить сущности, которые будут в вашем дипломном приложении, со свойствами и методами. Примеры: Contact, Message...
  */
 public class Load
